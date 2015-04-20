@@ -1,7 +1,9 @@
-Very simple implementation of CQRS. 
+<h2> Very simple implementation of CQRS.  </h2>
 
 TODO : 
-1. Implementing "query" part
-2. Exception handling
-3. Add client project  
-4. Add HATEOS to rest api
+<ul>
+	<li> Implementing "query" part </li>
+	<li> Exception handling </li>
+	<li>Add client project  </li>
+	<li>Add HATEOS to rest api </li>
+</ul>
