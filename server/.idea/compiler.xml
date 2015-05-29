@@ -22,12 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="SimpleCQRS" />
+        <module name="SimpleCQRSServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SimpleCQRS" target="1.6" />
+      <module name="SimpleCQRSServer" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
-

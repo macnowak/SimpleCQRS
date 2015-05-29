@@ -1,13 +1,13 @@
-pl\net\nowak\task\domain\handlers\FinishTaskCommandHandler.class
 pl\net\nowak\core\CommandHandler.class
 pl\net\nowak\task\api\rest\TaskRestApi.class
 pl\net\nowak\task\domain\Task$Status.class
+pl\net\nowak\task\domain\FinishTaskHandler.class
 pl\net\nowak\core\Query.class
 pl\net\nowak\core\Command.class
 pl\net\nowak\task\api\dto\TaskDTO.class
 pl\net\nowak\task\domain\TaskRepository.class
-pl\net\nowak\core\CommandSupplier.class
 pl\net\nowak\App.class
+pl\net\nowak\task\domain\AddTaskCommandHandler.class
 pl\net\nowak\core\CommandBus.class
 pl\net\nowak\task\api\TaskAPI.class
 pl\net\nowak\task\domain\Task.class
